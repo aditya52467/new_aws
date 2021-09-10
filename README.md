@@ -1,2 +1,2 @@
 # new_aws
-for testing
+test repo for command demonstration
